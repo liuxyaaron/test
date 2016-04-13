@@ -1,0 +1,10 @@
+A blank txt file
+
+
+cd /c/Users/304932/Desktop/test
+
+git add testNote6.txt
+
+git commit -m "wireshark2"
+
+git push origin master
